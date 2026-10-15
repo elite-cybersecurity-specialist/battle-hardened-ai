@@ -1,5 +1,7 @@
 # Battle-Hardened AI
 
+Developed by Yuhisern Navaratnam - A Cybersecurity Engineer from Malaysia - Elite Cybersecurity Specialist.
+
 Battle-Hardened AI is a centralized decision intelligence system that evaluates every interaction **before execution**.
 
 It consolidates 32 detection signals into a unified decision pipeline, producing a single, consistent, and authoritative outcome — enforced simultaneously across 12 infrastructure backends.
