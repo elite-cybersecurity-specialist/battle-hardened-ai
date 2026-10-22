@@ -353,17 +353,22 @@ This public overview is intentionally high level and omits internal design detai
 <p><strong>Explore more cybersecurity projects:</strong> <a href="https://github.com/elite-cybersecurity-specialist">Elite Cybersecurity Specialist on GitHub</a></p>
 </div>
 
-Connect with Elite Cybersecurity Specialist
-Yuhisern Navaratnam — Cybersecurity Engineer
-Elite Cybersecurity Specialist | Malaysia
-SSM: 202403184091 (MA0319303-P)
+
+---
+
+## Connect with Elite Cybersecurity Specialist
+
+**Yuhisern Navaratnam** — Cybersecurity Engineer  
+**Elite Cybersecurity Specialist** | Malaysia  
+**SSM:** 202403184091 (MA0319303-P)
 
 [<img src="assets/ECS_Digital_Name_Card_525x295.png" alt="Elite Cybersecurity Specialist digital name card — Yuhisern Navaratnam" width="525">](assets/ECS_Digital_Name_Card_525x295.png)
 
-Email: Yuhisern@protonmail.com
-WhatsApp: +60 17-279 1717
-GitHub — Battle-Hardened AI: Official repository
-GitHub — Other Cybersecurity Projects: Elite Cybersecurity Specialist
-TikTok: @yuhisern
-LinkedIn: linkedin.com/in/yuhisern
-X: x.com/yuhisern
+**Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)<br>
+**WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)<br>
+**GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)<br>
+**GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)<br>
+**TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)<br>
+**LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)<br>
+**X:** [x.com/yuhisern](https://x.com/yuhisern)
+
